@@ -277,10 +277,7 @@ export function LandingPage() {
                   <span className="text-soleo-text-dark mr-2">✓</span>
                   <span className="text-soleo-text-dark/80 text-sm">Notificaciones en tus horarios</span>
                 </li>
-                <li className="flex items-start">
-                  <span className="text-soleo-text-dark mr-2">✓</span>
-                  <span className="text-soleo-text-dark/80 text-sm"></span>
-                </li>
+              
                 <li className="flex items-start">
                   <span className="text-soleo-text-dark mr-2">✓</span>
                   <span className="text-soleo-text-dark/80 text-sm">Comparte progreso</span>
