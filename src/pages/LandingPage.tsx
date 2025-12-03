@@ -259,7 +259,7 @@ export function LandingPage() {
               <ul className="mb-6 space-y-3 flex-grow">
                 <li className="flex items-start">
                   <span className="text-soleo-text-dark mr-2">✓</span>
-                  <span className="text-soleo-text-dark/80 text-sm">Rutinas personalizadas según tu objetivo</span>
+                  <span className="text-soleo-text-dark/80 text-sm">Rutinas Intensivas</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-soleo-text-dark mr-2">✓</span>
@@ -267,7 +267,7 @@ export function LandingPage() {
                 </li>
                 <li className="flex items-start">
                   <span className="text-soleo-text-dark mr-2">✓</span>
-                  <span className="text-soleo-text-dark/80 text-sm">Entrenamiento en casa o gym</span>
+                  <span className="text-soleo-text-dark/80 text-sm">Entrenamiento para gym</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-soleo-text-dark mr-2">✓</span>
@@ -279,11 +279,11 @@ export function LandingPage() {
                 </li>
                 <li className="flex items-start">
                   <span className="text-soleo-text-dark mr-2">✓</span>
-                  <span className="text-soleo-text-dark/80 text-sm">Comunidad "Raíces Conectadas"</span>
+                  <span className="text-soleo-text-dark/80 text-sm"></span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-soleo-text-dark mr-2">✓</span>
-                  <span className="text-soleo-text-dark/80 text-sm">Comparte progreso en redes</span>
+                  <span className="text-soleo-text-dark/80 text-sm">Comparte progreso</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-soleo-text-dark mr-2">✓</span>
