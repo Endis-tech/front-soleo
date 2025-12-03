@@ -1,0 +1,21 @@
+{
+  "name": "Sóleo",
+  "short_name": "Sóleo",
+  "description": "Una aplicaion de rutinas de ejercicio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#D97706",
+  "icons": [
+    {
+      "src": "/icons/icon192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
